@@ -54,7 +54,7 @@ iframe{
         <ul class="nav-menu">
           <li><a class="menu-active" href="index.php">Inicio</a></li>
           <li><a href="#about">servicios</a></li>
-          <li><a target="_blank" href="RegistrarVideo.php">Agregar Video</a></li>
+          <li><a target="_blank" href="agregarVideo.php">Agregar Video</a></li>
           <li><a href="#pricing">Contacto</a></li>
         </ul>
       </nav>
