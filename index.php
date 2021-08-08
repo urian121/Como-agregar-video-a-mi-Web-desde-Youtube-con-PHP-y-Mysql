@@ -87,11 +87,13 @@ iframe{
   $DataVideo  = mysqli_fetch_array($queryVideo);
 ?>
 
-<section class="section-bg">
+
     <div class="container">
-      <h3 class="text-center mt-3" style="color:#F68119; font-weight: 600;">
-      Así de Fantástico se vería tu Sitio Web...
-     </h3>
+      <h2 class="text-center mt-3 mb-5" style="color:#666; font-weight: 800;">
+      Como agregar video a mi Web desde Youtube con PHP y Mysql
+     </h2>
+     <hr>
+
       <div class="row text-center">
         <div class="col-6">
           <?php 
@@ -113,7 +115,6 @@ iframe{
         </div>
       </div>
     </div>
-</section>
 
 
 
